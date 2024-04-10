@@ -1,6 +1,6 @@
-# Lab Template for A27
+# Lab Template for cs409
 
-This code serves as a foundational template for the ASCI course A27 - Fundamentals and Design of Blockchain-based Systems. It has been rigorously tested on Ubuntu 20.04 and MacOS 14, and should be compatible with Windows systems.
+This code serves as a foundational template for the cs409 - Fundamentals of Blockchain-based Systems. It has been rigorously tested on Ubuntu 20.04 and MacOS 14, and should be compatible with Windows systems.
 
 **Note:** Ensure that Python version 3.8 or higher is installed when running this code locally.
 
